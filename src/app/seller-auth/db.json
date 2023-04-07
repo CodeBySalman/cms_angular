@@ -1,0 +1,16 @@
+{
+  "seller": [
+    {
+      "name": "Salman Aziz",
+      "password": "123",
+      "email": "sheikhsalman91@live.com",
+      "id": 1
+    },
+    {
+      "name": "Adeel Arif",
+      "password": "123",
+      "email": "adeelarif@gmail.com",
+      "id": 2
+    }
+  ]
+}
