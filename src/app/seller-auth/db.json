@@ -11,6 +11,18 @@
       "password": "123",
       "email": "adeelarif@gmail.com",
       "id": 2
+    },
+    {
+      "name": "Irfan",
+      "password": "123",
+      "email": "irfankhan@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "tony",
+      "password": "123",
+      "email": "tonystark@gmail.com",
+      "id": 4
     }
   ]
 }
